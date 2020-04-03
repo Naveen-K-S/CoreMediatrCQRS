@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibrary1.Men.Visit.FirstVisit">
+    <Position X="1" Y="0.5" Width="10.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.Friend" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.PostLogger&lt;TRequest, TResponse&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.TimeToMeetGF" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.CricketFriends" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.RuleTobeGetIntoCab" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.ChildHoodFriends" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.CheckIfHeisYourDriver&lt;TRequest, TResponse&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.PurchaseGift&lt;TRequest, TResponse&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.PurchaseDress&lt;TRequest, TResponse&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="ClassLibrary1.Men.Visit.FirstVisit.BoyFriend" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Men\Visit\FirstVisit.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Men\Visit\FirstVisit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

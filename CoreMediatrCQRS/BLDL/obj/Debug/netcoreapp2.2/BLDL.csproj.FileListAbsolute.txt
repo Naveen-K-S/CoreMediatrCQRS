@@ -1,0 +1,9 @@
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\bin\Debug\netcoreapp2.2\BLDL.deps.json
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\bin\Debug\netcoreapp2.2\BLDL.dll
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\obj\Debug\netcoreapp2.2\BLDL.csproj.CoreCompileInputs.cache
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\obj\Debug\netcoreapp2.2\BLDL.AssemblyInfoInputs.cache
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\obj\Debug\netcoreapp2.2\BLDL.AssemblyInfo.cs
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\bin\Debug\netcoreapp2.2\BLDL.pdb
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\obj\Debug\netcoreapp2.2\BLDL.dll
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\obj\Debug\netcoreapp2.2\BLDL.pdb
+D:\Jarvis\Practice Projects\CoreMediatrCQRS\BLDL\obj\Debug\netcoreapp2.2\BLDL.csprojAssemblyReference.cache
